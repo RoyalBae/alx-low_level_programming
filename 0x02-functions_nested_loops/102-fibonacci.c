@@ -16,7 +16,7 @@ int main(void)
 
 	for (c = 1; c <= 50; ++c)
 	{
-		if (f != 36)
+		if (f != 165580141)
 		{
 			printf("%ld, ", f);
 		}
