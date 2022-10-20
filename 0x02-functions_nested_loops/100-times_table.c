@@ -2,7 +2,7 @@
 
 /**
  * print_times_table - It print the times table
- * of n starting from 0
+ * of the input starting from 0
  * @n: The value of the times table to be printed
  */
 
