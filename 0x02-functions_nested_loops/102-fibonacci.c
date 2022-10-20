@@ -9,7 +9,7 @@
 
 int main(void)
 {
-	long int c, f, s, nxt;
+	long int c, f, s, next;
 
 	f = 1;
 
@@ -25,7 +25,7 @@ int main(void)
 		{
 			printf("%ld\n", f);
 		}
-		nxt = f + s;
+		next = f + s;
 		f = s;
 		s = nxt;
 	}
