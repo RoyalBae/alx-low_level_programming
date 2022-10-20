@@ -18,11 +18,11 @@ int main(void)
 	{
 		if (f != 2163150047)
 		{
-			printf("%d, ", f);
+			printf("%ld, ", f);
 		}
 		else
 		{
-			printf("%d\n", f);
+			printf("%ld\n", f);
 		}
 		nxt = f + s;
 		f = s;
